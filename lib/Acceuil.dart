@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:cv_23/youssef/provider/provider.dart';
+import 'package:cv/youssef/provider/provider.dart';
 import 'emna/constants/colors.dart';
 
 class AccueilPage extends StatelessWidget {

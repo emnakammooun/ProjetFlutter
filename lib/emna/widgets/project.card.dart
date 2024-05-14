@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart'; // Import url_launcher for launching URLs
-import 'package:cv_23/emna/utils/project.utils.dart';
+import 'package:cv/emna/utils/project.utils.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../constants/colors.dart';

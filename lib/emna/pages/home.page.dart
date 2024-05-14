@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:cv_23/emna/constants/colors.dart';
-import 'package:cv_23/emna/provider/provider.dart';
-import 'package:cv_23/emna/widgets/main.mobile.dart';
-import 'package:cv_23/emna/widgets/projects.section.dart';
+import 'package:cv/emna/constants/colors.dart';
+import 'package:cv/emna/provider/provider.dart';
+import 'package:cv/emna/widgets/main.mobile.dart';
+import 'package:cv/emna/widgets/projects.section.dart';
 import '../widgets/drawer.mobile.dart';
 import '../widgets/footer.dart';
 import '../widgets/skills.mobile.dart';
 import '../widgets/Education.dart';
-import 'package:cv_23/emna/widgets/Experience.dart';
+import 'package:cv/emna/widgets/Experience.dart';
 
 
 class HomePage extends StatefulWidget {

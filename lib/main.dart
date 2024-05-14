@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:cv_23/youssef/provider/provider.dart';
-import 'package:cv_23/emna/provider/provider.dart'; // Import the provider for Emna as well
-import 'package:cv_23/youssef/pages/home.page.dart' as YoussefHomePage;
-import 'package:cv_23/emna/pages/home.page.dart' as EmnaHomePage;
-import 'package:cv_23/Acceuil.dart';
+import 'package:cv/youssef/provider/provider.dart';
+import 'package:cv/emna/provider/provider.dart'; // Import the provider for Emna as well
+import 'package:cv/youssef/pages/home.page.dart' as YoussefHomePage;
+import 'package:cv/emna/pages/home.page.dart' as EmnaHomePage;
+import 'package:cv/Acceuil.dart';
 
 void main() {
   runApp(MyApp());

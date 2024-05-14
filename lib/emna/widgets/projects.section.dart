@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:cv_23/emna/widgets/project.card.dart';
+import 'package:cv/emna/widgets/project.card.dart';
 import 'package:provider/provider.dart';
 
 import '../constants/colors.dart';

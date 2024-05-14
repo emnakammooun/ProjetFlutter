@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:cv_23/youssef/utils/project.utils.dart';
+import 'package:cv/youssef/utils/project.utils.dart';
 import 'package:provider/provider.dart';
 import '../constants/colors.dart';
 import '../provider/provider.dart';
